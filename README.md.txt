@@ -1,5 +1,5 @@
 
-Este repositorio contiene tres proyectos relacionados con la debida diligencia de proveedores, cada uno tiene sus propias instrucciones:
+Este repositorio contiene tres proyectos relacionados con la diligencia y gestión de proveedores de riesgo, cada uno tiene sus propias instrucciones (README.md):
 
 - **web-scraping-backend**: API REST para realizar web scraping en listas de alto riesgo (Offshore Leaks, World Bank, OFAC).
 - **supplier-api-backend**: API REST para gestionar proveedores y realizar screening contra listas de alto riesgo.
