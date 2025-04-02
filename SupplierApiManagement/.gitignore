@@ -1,0 +1,13 @@
+
+bin/
+obj/
+*.csproj.user
+*.suo
+*.user
+*.sln.docstates
+
+
+packages/
+
+Migrations/
+appsettings.Development.json
